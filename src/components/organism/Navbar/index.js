@@ -8,7 +8,6 @@ const NavBar = () => {
   };
 
   const handleSearch = () => {
-    // Lakukan tindakan pencarian di sini
     alert("Anda menekan tombol pencarian.");
   };
 
