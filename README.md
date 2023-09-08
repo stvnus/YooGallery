@@ -1,25 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/find-images.png)
+## YooGallery
 
-## Available Scripts
+This project creates a  simple gallery website page that displays images based on the Unsplash API. It includes a search feature that searches based on the user's input query and displays the results on the homepage
 
-In the project directory, you can run:
 
-### `yarn install`
+<img width="936" alt="homeyoogallery" src="https://github.com/stvnus/YooGallery/assets/58300623/e1d36d71-fff5-439a-a9de-76ba421adc4a">
 
-Instal All dependencies in this project
 
-### `yarn dev`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Key Features
+1. Search Feature: Use the search input to enter keywords and find images
 
-### Link
+2. Display Images : Display collection of images with an appealing mosaic view
 
-- Unsplash Developer: https://unsplash.com/developers
-- Create React App: https://create-react-app.dev/
 
-### Video Tutorial
 
-You can see my youtube video for this project in [here](https://youtu.be/yUau8xImmK0)
+## Visit Yoobi Movies at https://yoobi-movie.vercel.app/
+
+## Getting Started To set up YooGallery locally
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies: npm install
+4. Run the application 
+```bash
+npm start
+```
+5. Open localhost with your browser to see the result.
+
